@@ -45,7 +45,7 @@ const Navbar = () => {
           <img
             src={logo}
             alt="Delvex Engineering"
-            className="h-12 w-auto object-contain brightness-0 invert"
+            className="h-12 w-auto object-contain rounded bg-white/95 px-2 py-1"
           />
         </a>
 
