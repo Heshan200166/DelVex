@@ -1,0 +1,25 @@
+{
+  "name": "delvex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Heshan200166/DelVex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Heshan200166/DelVex/issues"
+  },
+  "homepage": "https://github.com/Heshan200166/DelVex#readme",
+  "dependencies": {
+    "lucide-react": "^1.46.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  }
+}
